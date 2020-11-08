@@ -1,4 +1,4 @@
-<h4 align="center" width="400" height="100">
+<h4 align="center" width="380" height="80">
 	<img src=".github/logo.png">
 </h4>
 
