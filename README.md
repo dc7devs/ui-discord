@@ -1,5 +1,5 @@
 <h4 align="center">
-	<img src=".github/images.png">
+	<img src=".github/logo.png">
 </h4>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## ⚙️ Funcionalidades
 
-- [x] Nenhuma Fncionalidade ainda
+- [x] Nenhuma Funcionalidade ainda
 
 ---
 
@@ -31,7 +31,8 @@ O layout recriado do [**Discord**](https://discord.com)
 
 <img alt="-clone-discord" src="./discord-clone.png">
 
-[! [Demo Doccou alpha] ()]
+[! [Demo Doccou alpha] (.github/tamplate.gif)]
+![Alt Text](.github/tamplate.gif)
 
 ---
 
