@@ -1,10 +1,9 @@
-<h4 align="center">
+<h4 align="center" width="400" height="100">
 	<img src=".github/logo.png">
 </h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -19,19 +18,10 @@
 
 ---
 
-## ⚙️ Funcionalidades
-
-- [x] Nenhuma Funcionalidade ainda
-
----
-
 ## 🎨 Layout
 
 O layout recriado do [**Discord**](https://discord.com)
 
-<img alt="-clone-discord" src="./discord-clone.png">
-
-[! [Demo Doccou alpha] (.github/tamplate.gif)]
 ![Alt Text](.github/tamplate.gif)
 
 ---
