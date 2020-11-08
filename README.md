@@ -1,10 +1,10 @@
-<h4 align="center"> 
-	🚧 -icon- UI-clone Discord 🚀 🚧
+<h4 align="center">
+	<img src=".github/images.png">
 </h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -31,7 +31,7 @@ O layout recriado do [**Discord**](https://discord.com)
 
 <img alt="-clone-discord" src="./discord-clone.png">
 
-<video type=""></video>
+[! [Demo Doccou alpha] ()]
 
 ---
 
@@ -42,7 +42,7 @@ O Projeto contem somente o Frontend ja que se trata apenas do layout-clone
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [yarn](https://yarnpkg.com/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Rodando a aplicação web (Frontend)
@@ -50,16 +50,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:____
+$ git clone https://github.com/Dev-DC-Silva/UI-Discord
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd clone-template-discord
+$ cd UI-Discord
 
 # Instale as dependências
-$ npm install
+$ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
@@ -76,12 +76,11 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[React Native](https://react.com____)**
 
-> Veja o arquivo  [package.json](https://github.com/___)
+> Veja o arquivo  [package.json](https://github.com/Dev-DC-Silva/UI-Discord/blob/main/package.json)
 
 
-#### [](https://github.com/)**Utilitários**
+#### **Utilitários**
 
--   API:  **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)**  →  **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**,  **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ---
@@ -98,8 +97,8 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 
 ## 🦸 Autor
 
-[**Linkedin**](https://linkedin.___) 
-[**Gmail**](https://google___)
+- [**Linkedin**](https://www.linkedin.com/in/diego-caetano-487b171a5/)
+- [**Gmail**](diegocaetano444@gmail.com)
 
 ---
 
@@ -107,6 +106,6 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Diego Silva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/diego-caetano-487b171a5/)
 
 ---
