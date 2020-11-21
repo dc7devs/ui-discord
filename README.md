@@ -1,4 +1,4 @@
-<h4 align="center" width="380" height="80">
+<h4 align="center" width="240" height="75">
 	<img src=".github/logo.png">
 </h4>
 
@@ -41,7 +41,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Dev-DC-Silva/UI-Discord
+$ git clone https://github.com/Diego-DevsS/UI-Discord
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd UI-Discord
@@ -89,7 +89,7 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 ## 🦸 Autor
 
 - [**Linkedin**](https://www.linkedin.com/in/diego-caetano-487b171a5/)
-- [**Gmail**](diegocaetano444@gmail.com)
+- [**diegocaetano444@gmail.com**](https://gmail.com)
 
 ---
 
