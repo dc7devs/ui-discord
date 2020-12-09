@@ -30,7 +30,7 @@ O layout recriado do [**Discord**](https://discord.com)
 
 O Projeto contem somente o Frontend ja que se trata apenas do layout-clone
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação web (Frontend) na sua maquina
 
 ```bash
 
@@ -49,7 +49,9 @@ $ yarn start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
+ou penas click aqui para execultar a apliacação
 
+[![Vercel](https://img.shields.io/static/v1?label=&message=VERCEL&color=black&style=for-the-badge&logo=VERCEL)](https://dates-list.vercel.app/)
 ---
 
 ## 🛠 Tecnologias
