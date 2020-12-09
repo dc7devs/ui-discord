@@ -30,12 +30,6 @@ O layout recriado do [**Discord**](https://discord.com)
 
 O Projeto contem somente o Frontend ja que se trata apenas do layout-clone
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [yarn](https://yarnpkg.com/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 #### 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
@@ -88,8 +82,10 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 
 ## 🦸 Autor
 
-- [**Linkedin**](https://www.linkedin.com/in/diego-caetano-487b171a5/)
-- [**diegocaetano444@gmail.com**](https://gmail.com)
+[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=white&style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/dcdevs/)
+[![Linkedim](https://img.shields.io/static/v1?label=&message=Linkedinm&color=blue&style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/diego-c-silva-487b171a5/)<br>
+[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/DiegoSi06829718)
+[![Discord](https://img.shields.io/static/v1?label=&message=D❦•Devs•❦|7498&color=blue&style=-badge&logo=Discord)]()
 
 ---
 
