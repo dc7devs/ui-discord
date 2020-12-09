@@ -51,7 +51,7 @@ $ yarn start
 ```
 ou penas click aqui para execultar a apliacação
 
-[![Vercel](https://img.shields.io/static/v1?label=&message=VERCEL&color=black&style=for-the-badge&logo=VERCEL)](https://dates-list.vercel.app/)
+[![Vercel](https://img.shields.io/static/v1?label=&message=VERCEL&color=black&style=for-the-badge&logo=VERCEL)](https://ui-discord.diego-devss.vercel.app/)
 ---
 
 ## 🛠 Tecnologias
