@@ -91,7 +91,7 @@ As seguintes ferramentas foram usadas para clona o Ui-clone:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/Diego-DevsS/UI-Discord/blob/main/LICENCE).
 
 Feito com ❤️ por Diego Silva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/diego-caetano-487b171a5/)
 
