@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o projeto
 
-Discord - E uma plataforma de entreterimento voltada pricipalmente para games, onde os usuários podem conectar a um certo servidor da sua preferência e que contém pessoas com os mesmo interesses que o seu podendo conversar em chat, video chamada e Call, compartilhando iteresse comums.
+Discord - E uma plataforma de entreterimento voltada pricipalmente para games, onde os usuários podem conectar a um certo servidor da sua preferência e que contém pessoas com os mesmo interesses que o seu podendo conversar em chat, video chamada e Call, compartilhando iteresse comums. O projeto consiste no clone da interface de usuário web.
 
 ---
 
